@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**pereiraryan/pereiraryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Web Developer from Mumbai, India.
 
-Here are some ideas to get you started:
+<p>
+<a href="https://ryanpereira.me/" target="_blank">
+  <img src="https://img.shields.io/badge/website-%23E34F26.svg?&style=for-the-badge" />
+</a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://twitter.com/pereiraryan20" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a> 
+
+<a href="https://www.linkedin.com/in/pereira-ryan/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> 
+
+</p>
+
+Hi. I’m Ryan. I build websites, I like reading self help books and learn programming in my free time.
+
+I work at [Newfold Digital] (https://newfold.com/) as a Web Developer Frontend Engineer. For more information about me, check out [ryanpereira.me] (https://ryanpereira.me/).
