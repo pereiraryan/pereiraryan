@@ -19,4 +19,4 @@
 
 Hi. I’m Ryan. I build websites, I like reading self help books and learn programming in my free time.
 
-I work at [Newfold Digital] (https://newfold.com/) as a Web Developer Frontend Engineer. For more information about me, check out [ryanpereira.me] (https://ryanpereira.me/).
+I work at [Newfold Digital](https://newfold.com/) as a Web Developer Frontend Engineer. For more information about me, check out [ryanpereira.me](https://ryanpereira.me/).
