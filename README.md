@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Web Developer from Mumbai, India.
+#### I'm a Frontend Developer from Mumbai, India.
 
 <p>
 <a href="https://ryanpereira.me/" target="_blank">
@@ -19,4 +19,4 @@
 
 Hi. I’m Ryan. I build websites, I like reading self help books and learn programming in my free time.
 
-I work at [Newfold Digital](https://newfold.com/) as a Web Developer Frontend Engineer. For more information about me, check out [ryanpereira.me](https://ryanpereira.me/).
+I worked at [Ubisoft](https://ubisoft.com/) as a Web Developer Frontend Engineer. For more information about me, check out [ryanpereira.me](https://ryanpereira.me/).
