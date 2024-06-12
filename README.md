@@ -19,4 +19,4 @@
 
 Hi. I’m Ryan. I build websites, I like reading self help books and learn programming in my free time.
 
-I worked at [Fluent Health]([[https://fluentinhealth.com/]) as a Frontend Developer. For more information about me, check out [ryanpereira.me](https://ryanpereira.me/).
+I worked at [Fluent Health](https://fluentinhealth.com/) as a Frontend Developer. For more information about me, check out [ryanpereira.me](https://ryanpereira.me/).
